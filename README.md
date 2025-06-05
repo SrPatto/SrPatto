@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <ul>
   <li>Pirate Software - Game Jam 16 (2025)</li>
   <li>Brackeys Game Jam 2025.1 (2025)</li>
-  <li>UPIICSA Game Jam 2025.1 (2025)</li>
+  <li>🥇 UPIICSA Game Jam 2025.1 (2025)</li>
+  <li>🥇 Easter Break Jam 2025 (2025)</li>
+  <li>Fuck Capitalism Jam 2025 (2025)</li>
 </ul>
 
 ### 💻 Hackathons
